@@ -3,7 +3,7 @@
 Saindo do pessoal e investindo no perfil profissional como desenvolvedor , novidades nos projetos em breve!
 
 ![GiganteTGames GitHub stats](https://github-readme-stats.vercel.app/api?username=gigantetgames&show_icons=true&theme=dark&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gigantetgames&layout=compact&theme=dark)](https://github.com/gigantetgames)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gigantetgames&layout=compact&theme=dark&count_private=true)](https://github.com/gigantetgames)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
